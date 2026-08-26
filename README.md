@@ -61,7 +61,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     alt="Github Stats"
     height="200"
     style="padding-riight: 10px;" 
-src="https://github-readme-stats.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br"
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br"
 />
 
 <img 
@@ -69,5 +69,5 @@ src="https://github-readme-stats.vercel.app/api?username=FernandoErivan&show_ico
     alt="Github Stats"
     height="200"
     style="padding-riight: 10px;" 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
 />
