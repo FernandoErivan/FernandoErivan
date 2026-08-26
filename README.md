@@ -56,28 +56,17 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 🌐 Estatísticas
 
-<!-- GitHub Stats -->
-<h2 align="center">📊 Minhas estatísticas</h2>
-
+<!-- Estatísticas do GitHub -->
 <div align="center">
   <img
     height="180em"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-    alt="Estatísticas do GitHub"
+    alt="Estatísticas do GitHub de Fernando Erivan"
   />
 
   <img
     height="180em"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
-    alt="Tecnologias mais utilizadas"
-  />
-</div>
-
-<br>
-
-<div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoErivan&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="Tecnologias mais utilizadas por Fernando Erivan"
   />
 </div>
