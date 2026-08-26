@@ -56,9 +56,28 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 🌐 Estatísticas
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br"/>
+<!-- GitHub Stats -->
+<h2 align="center">📊 Minhas estatísticas</h2>
 
-<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
-/>
-</p>
+<div align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    alt="Estatísticas do GitHub"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+    alt="Tecnologias mais utilizadas"
+  />
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoErivan&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
