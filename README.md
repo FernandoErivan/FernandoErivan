@@ -56,18 +56,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
 ### 🌐 Estatísticas
 
-<img 
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-riight: 10px;" 
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br"
-/>
+<p align="center">
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FernandoErivan&show_icons=true&theme=tokyonight&inclue_all_commits=true&locale=pt-br"/>
 
-<img 
-    align="left"
-    alt="Github Stats"
-    height="200"
-    style="padding-riight: 10px;" 
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FernandoErivan&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5"
 />
+</p>
